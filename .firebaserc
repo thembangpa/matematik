@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "matematik-6-klasse"
+  },
+  "targets": {
+    "matematik-6-klasse": {
+      "hosting": {
+        "main": [
+          "matematik-1-6"
+        ],
+        "legacy": [
+          "matematik-6-klasse"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
