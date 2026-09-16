@@ -1,8 +1,7 @@
 # Matematik 1.–6. klasse – studiemateriale
 
 A bilingual (Danish/English) study website in mathematics for children in grades 1–6 at a
-Danish friskole. Live at **https://matematik-1-6.web.app** (the older
-https://matematik-6-klasse.web.app redirects there). All subject content is based on the official Danish curriculum:
+Danish friskole. Live at **https://matematik-1-6.web.app**. All subject content is based on the official Danish curriculum:
 **Fælles Mål – Matematik** and the accompanying *Læseplan* and *Undervisningsvejledning*
 from the Ministry of Children and Education (Børne- og Undervisningsministeriet).
 
